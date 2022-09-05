@@ -1,0 +1,15 @@
+C:\НАДИНЫ ПАПКИ\УЧЁБА\BI АНАЛИТИКА\C#\Seminars\Task_001_Quiz\bin\Debug\net6.0\Task_001_Quiz.exe
+C:\НАДИНЫ ПАПКИ\УЧЁБА\BI АНАЛИТИКА\C#\Seminars\Task_001_Quiz\bin\Debug\net6.0\Task_001_Quiz.deps.json
+C:\НАДИНЫ ПАПКИ\УЧЁБА\BI АНАЛИТИКА\C#\Seminars\Task_001_Quiz\bin\Debug\net6.0\Task_001_Quiz.runtimeconfig.json
+C:\НАДИНЫ ПАПКИ\УЧЁБА\BI АНАЛИТИКА\C#\Seminars\Task_001_Quiz\bin\Debug\net6.0\Task_001_Quiz.dll
+C:\НАДИНЫ ПАПКИ\УЧЁБА\BI АНАЛИТИКА\C#\Seminars\Task_001_Quiz\bin\Debug\net6.0\Task_001_Quiz.pdb
+C:\НАДИНЫ ПАПКИ\УЧЁБА\BI АНАЛИТИКА\C#\Seminars\Task_001_Quiz\obj\Debug\net6.0\Task_001_Quiz.csproj.AssemblyReference.cache
+C:\НАДИНЫ ПАПКИ\УЧЁБА\BI АНАЛИТИКА\C#\Seminars\Task_001_Quiz\obj\Debug\net6.0\Task_001_Quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\НАДИНЫ ПАПКИ\УЧЁБА\BI АНАЛИТИКА\C#\Seminars\Task_001_Quiz\obj\Debug\net6.0\Task_001_Quiz.AssemblyInfoInputs.cache
+C:\НАДИНЫ ПАПКИ\УЧЁБА\BI АНАЛИТИКА\C#\Seminars\Task_001_Quiz\obj\Debug\net6.0\Task_001_Quiz.AssemblyInfo.cs
+C:\НАДИНЫ ПАПКИ\УЧЁБА\BI АНАЛИТИКА\C#\Seminars\Task_001_Quiz\obj\Debug\net6.0\Task_001_Quiz.csproj.CoreCompileInputs.cache
+C:\НАДИНЫ ПАПКИ\УЧЁБА\BI АНАЛИТИКА\C#\Seminars\Task_001_Quiz\obj\Debug\net6.0\Task_001_Quiz.dll
+C:\НАДИНЫ ПАПКИ\УЧЁБА\BI АНАЛИТИКА\C#\Seminars\Task_001_Quiz\obj\Debug\net6.0\refint\Task_001_Quiz.dll
+C:\НАДИНЫ ПАПКИ\УЧЁБА\BI АНАЛИТИКА\C#\Seminars\Task_001_Quiz\obj\Debug\net6.0\Task_001_Quiz.pdb
+C:\НАДИНЫ ПАПКИ\УЧЁБА\BI АНАЛИТИКА\C#\Seminars\Task_001_Quiz\obj\Debug\net6.0\Task_001_Quiz.genruntimeconfig.cache
+C:\НАДИНЫ ПАПКИ\УЧЁБА\BI АНАЛИТИКА\C#\Seminars\Task_001_Quiz\obj\Debug\net6.0\ref\Task_001_Quiz.dll
